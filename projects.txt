@@ -1,0 +1,8 @@
+const project = [
+    {
+        picture:"./assets/OIP.jpeg",
+        projectName: 'Website page',
+        techStacks:['HTML','CSS','JavaScript',]
+        description: Im an aspiring web developer whos is passionate about creating web experiences,currently learning html,Css and JavaScript,I have experimented myself with a web design portfolio, I am detail-oriented and eager to contribute to the real-world projects
+    }
+]
